@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-
 /* Main theme colors */
 :root {
   --primary-color: #121212;
@@ -9,49 +7,56 @@
   --text-muted-color: #b9bbbe;
 }
 
+/* Background */
+.app {
+  background-image: url('https://example.com/background-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Server list */
+.server-item {
+  color: var(--text-muted-color) !important;
+}
+
+.server-item:hover {
+  color: var(--text-color) !important;
+  background-color: var(--secondary-color) !important;
+}
+
 /* Channel list */
-.channel {
+.channel-item {
   color: var(--text-color) !important;
   background-color: var(--primary-color) !important;
 }
 
-.channel:hover {
-  background-color: var(--secondary-color) !important;
-}
-
-/* Server list */
-.guild {
-  color: var(--text-muted-color) !important;
-}
-
-.guild:hover {
-  color: var(--text-color) !important;
+.channel-item:hover {
   background-color: var(--secondary-color) !important;
 }
 
 /* Message area */
-.message {
+.message-content {
   color: var(--text-color) !important;
   background-color: var(--primary-color) !important;
 }
 
-.message:hover {
+.message-content:hover {
   background-color: var(--secondary-color) !important;
 }
 
 /* User popout */
-.userPopout {
+.user-popout {
   color: var(--text-color) !important;
   background-color: var(--primary-color) !important;
 }
 
-.userPopout:hover {
+.user-popout:hover {
   background-color: var(--secondary-color) !important;
 }
 
 /* Font styles */
 body {
-  font-family: 'Roboto', Arial, sans-serif !important;
+  font-family: 'Arial', sans-serif !important;
 }
 
 .username {
