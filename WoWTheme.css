@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* Main theme colors */
+:root {
+  --primary-color: #121212;
+  --secondary-color: #36393e;
+  --accent-color: #ff7d0a;
+  --text-color: #ffffff;
+  --text-muted-color: #b9bbbe;
+}
+
+/* Channel list */
+.channel {
+  color: var(--text-color) !important;
+  background-color: var(--primary-color) !important;
+}
+
+.channel:hover {
+  background-color: var(--secondary-color) !important;
+}
+
+/* Server list */
+.guild {
+  color: var(--text-muted-color) !important;
+}
+
+.guild:hover {
+  color: var(--text-color) !important;
+  background-color: var(--secondary-color) !important;
+}
+
+/* Message area */
+.message {
+  color: var(--text-color) !important;
+  background-color: var(--primary-color) !important;
+}
+
+.message:hover {
+  background-color: var(--secondary-color) !important;
+}
+
+/* User popout */
+.userPopout {
+  color: var(--text-color) !important;
+  background-color: var(--primary-color) !important;
+}
+
+.userPopout:hover {
+  background-color: var(--secondary-color) !important;
+}
+
+/* Font styles */
+body {
+  font-family: 'Roboto', Arial, sans-serif !important;
+}
+
+.username {
+  font-weight: bold !important;
+}
+
+.timestamp {
+  font-style: italic !important;
+}
+
+/* Other customizations */
+/* Add your own custom CSS rules here */
+
+/* Scrollbar customization */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--secondary-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--accent-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #ff6a00;
+}
