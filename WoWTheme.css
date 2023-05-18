@@ -1,1 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Exocet+Light&display=swap');
 
+/* Global theme settings */
+:root {
+  --main-bg-color: #2c2c2c; /* Main background color */
+  --sidebar-bg-color: #1f1f1f; /* Sidebar background color */
+  --chat-bg-color: #272727; /* Chat background color */
+  --text-color: #ffffff; /* Text color */
+  --accent-color: #198ae5; /* Accent color */
+}
+
+/* Body */
+body {
+  background-color: var(--main-bg-color);
+  font-family: 'Exocet Light', sans-serif;
+  font-size: 14px;
+}
+
+/* Sidebar */
+.container-1YxwTf {
+  background-color: var(--sidebar-bg-color);
+  color: var(--text-color);
+}
+
+/* Channel list */
+.container-1sFeqF,
+.container-2lgZY8,
+.container-3BA7HG {
+  background-color: var(--sidebar-bg-color);
+}
+
+/* Active channel */
+.container-1sFeqF .content-2e5-Z1,
+.container-1sFeqF .content-2e5-Z1:hover {
+  background-color: var(--accent-color);
+}
+
+/* Server list */
+.container-2lgZY8 .content-2e5-Z1,
+.container-2lgZY8 .content-2e5-Z1:hover {
+  background-color: var(--accent-color);
+}
+
+/* Chat area */
+.container-1YxwTf,
+.container-3BA7HG {
+  background-color: var(--chat-bg-color);
+}
+
+/* Chat messages */
+.message-2qnXI6 .markup-2BOw-j {
+  color: var(--text-color);
+}
+
+/* Links */
+.anchor-3Z-8Bb,
+.anchor-3Z-8Bb:hover {
+  color: var(--accent-color);
+}
+
+/* User popout */
+.userPopout-3XzG_A {
+  background-color: var(--sidebar-bg-color);
+  color: var(--text-color);
+}
+
+/* User popout header */
+.userPopout-3XzG_A .header-23xsNx {
+  background-color: var(--accent-color);
+}
+
+/* User popout username */
+.userPopout-3XzG_A .username-2b1r56 {
+  color: var(--text-color);
+}
+
+/* User popout discriminator */
+.userPopout-3XzG_A .discriminator-3tYCOD {
+  color: var(--text-color);
+}
+
+/* User popout status */
+.userPopout-3XzG_A .status-1zWfDV {
+  color: var(--text-color);
+}
+
+/* User popout game activity */
+.userPopout-3XzG_A .activity-16XyCW {
+  color: var(--text-color);
+}
+
+/* User popout game name */
+.userPopout-3XzG_A .game-1jS_6q {
+  color: var(--text-color);
+}
+
+/* User popout roles */
+.userPopout-3XzG_A .roles-3G1VtJ {
+  color: var(--text-color);
+}
+
+/* User popout footer */
+.userPopout-3XzG_A .footer-1fjuF6 {
+  background-color: var(--accent-color);
+}
+
+/* Mention badge */
+.mentionBadge-2D8lLS {
+  background-color: var(--accent-color);
+  color: var(--text-color);
+}
+
+/* User popup */
+.member-3-YXUe:hover,
+.container-1YxwTf .mention-1i9G-K:hover {
+  background-color: var(--accent-color);
+}
+
+/* Code blocks */
+.hljs {
+  background-color: var(--sidebar-bg-color);
+}
+
+/* Code block text */
+.hljs {
+  color: var(--text-color);
+}
+
+/* Code block background */
+.hljs {
+  background-color: var(--sidebar-bg-color);
+}
+
+/* Code block keyword */
+.hljs-keyword {
+  color: var(--accent-color);
+}
+
+/* Code block string */
+.hljs-string {
+  color: var(--accent-color);
+}
+
+/* Code block comment */
+.hljs-comment {
+  color: var(--accent-color);
+}
+
+/* Code block number */
+.hljs-number {
+  color: var(--accent-color);
+}
+
+/* Code block variable */
+.hljs-variable {
+  color: var(--accent-color);
+}
+
+/* Code block function */
+.hljs-function {
+  color: var(--accent-color);
+}
+
+/* Code block class */
+.hljs-class {
+  color: var(--accent-color);
+}
+
+/* Code block tag */
+.hljs-tag {
+  color: var(--accent-color);
+}
