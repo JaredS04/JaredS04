@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JCh1ll
+- 👋 Hi, I’m @SethRogensMiniVan
 - 👀 I’m interested in games & game development
-- 🌱 I’m currently learning Python & Godot Game Engine.
+- 🌱 I’m currently learning Python/GDScript & Godot Game Engine & Other Game Dev Realted Stuff.
 
 <!---
 JCh1LL/JCh1LL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
