@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SethRogensMiniVan
+- 👋 Hi, I’m @NovaMarauder
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python.
 
