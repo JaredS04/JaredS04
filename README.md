@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NovaMarauder
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning HTML, CSS & JavaScript.
 
 <!---
 NovaMarauder/NovaMarauder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
