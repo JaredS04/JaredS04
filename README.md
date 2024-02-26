@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NovaMarauder
+- 👋 Hi, I’m @JSScriptingx
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning....
 
