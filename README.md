@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JSScriptingx
-- 👀 I’m interested in coding.
+- 👀 I’m interested in Web & Game Development
 - 🌱 I’m currently learning HTML, CSS & Java Script
 
 <!---
