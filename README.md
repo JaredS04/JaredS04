@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaredS04 
+- 👋 Hi, I’m Jared
 - 👀 I’m interested in Web & Game Development
 - 🌱 I’m currently learning HTML, CSS & Java Script
 
