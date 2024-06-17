@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jared
-- 👀 I’m interested in Web & Game Development
-- 🌱 I’m currently learning HTML, CSS & Java Script
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 
 <!---
 JaredS04 /JaredS04  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
